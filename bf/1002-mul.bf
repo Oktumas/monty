@@ -1,4 +1,4 @@
-nF*ck Script to multiply two numbers
+# BrainF*ck Script to multiply two numbers
 # Result has to be less than 10 (a single digit number)
 # given example 42: 4 will be in block #1 2 will be in block #2
 # block 0 will store the result
@@ -16,4 +16,3 @@ nF*ck Script to multiply two numbers
 <-] MOVE BLOCK TO BLOCK 2 AND DECREASE (DONE WITH ONE ITERATION)
 # MOVE TO BLOCK 0 AND INCREASE BY ASCII '0' (DEC 48)
 <<++++++++++++++++++++++++++++++++++++++++++++++++.
-
